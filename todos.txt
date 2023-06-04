@@ -1,6 +1,4 @@
 shower
-sleep
-helloCook dinner
 Eat pizza
 Learn more
 Master Python!
